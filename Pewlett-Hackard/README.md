@@ -7,7 +7,7 @@ By doing so we are able to determine datatypes and datatype lengths as relevant 
 as well as perform some data validation to determine how to assign restrictions for data engineering.
 
 ## Data Engineering
-![monthlysummary2013.png](images/pewlett_hackard-ERD.png)<br>
+![pewlett_hackard-ERD.png](images/pewlett_hackard-ERD.png)<br>
 (Diagram above was created using QuickDBD)
 ### [Schemata](sql/schemas.sql)<br>
 After looking at the data contained in the csv files and determining the data structure of each file,<br>
